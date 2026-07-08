@@ -94,8 +94,8 @@ This project helped in understanding:
 - Employee Attendance Module
 - Payroll Report Export
 ---
-## Author
-**Your Name**
+## Sumayya
+**Sumayya Sadaf**
 LinkedIn:
 GitHub:
 ⭐ If you found this project helpful, don't forget to Star this repository.
